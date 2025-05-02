@@ -1,0 +1,16 @@
+PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+PREFIX ldp:  <http://www.w3.org/ns/ldp#>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+</e259ad49-19b1-415f-836b-6f704fc67ec8/test-files/test.txt>
+        rdf:type  ldp:NonRDFSource .
+
+</e259ad49-19b1-415f-836b-6f704fc67ec8/test-files/test-data.json>
+        rdf:type  ldp:NonRDFSource .
+
+<https://storage.ap.inrupt.com/e259ad49-19b1-415f-836b-6f704fc67ec8/test-files/>
+        rdf:type      ldp:BasicContainer;
+        ldp:contains  </e259ad49-19b1-415f-836b-6f704fc67ec8/test-files/test.txt> , </e259ad49-19b1-415f-836b-6f704fc67ec8/test-files/test-data.json> .

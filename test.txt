@@ -1,0 +1,8 @@
+This is a sample text file for testing Solid file operations.
+It contains multiple lines of text to demonstrate file reading and writing capabilities.
+
+The file includes:
+1. Basic text content
+2. Multiple lines
+3. Special characters: !@#$%^&*()
+4. Numbers: 1234567890 

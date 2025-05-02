@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-05-02T07:00:48.192Z",
+  "config": {
+    "podUrl": "https://storage.ap.inrupt.com/dd6cd4bc-f5c8-4da0-93a7-28a84df7edbd/",
+    "webId": "https://id.inrupt.com/vanshdhar"
+  },
+  "metrics": {
+    "walletOperations": {
+      "create": {
+        "min": 175.017625,
+        "max": 596.502625,
+        "avg": 261.2124582
+      },
+      "read": {
+        "min": 164.51475,
+        "max": 493.250792,
+        "avg": 233.1942082
+      },
+      "update": {
+        "min": 172.108833,
+        "max": 309.968875,
+        "avg": 203.9371166
+      },
+      "delete": {
+        "min": 164.147625,
+        "max": 292.171166,
+        "avg": 191.5904748
+      }
+    },
+    "accessGrantOperations": {
+      "create": {
+        "min": 172.92,
+        "max": 180.778417,
+        "avg": 176.07251639999998
+      },
+      "read": {
+        "min": 166.596875,
+        "max": 173.43625,
+        "avg": 170.40027479999998
+      },
+      "revoke": {
+        "min": 167.015625,
+        "max": 177.258667,
+        "avg": 171.0231166
+      }
+    },
+    "accessRequestOperations": {
+      "create": {
+        "min": 165.172917,
+        "max": 171.633959,
+        "avg": 168.53610020000002
+      },
+      "read": {
+        "min": 172.175667,
+        "max": 174.027,
+        "avg": 172.9100332
+      },
+      "grant": {
+        "min": 166.329916,
+        "max": 169.057208,
+        "avg": 167.50370819999998
+      },
+      "deny": {
+        "min": 171.840917,
+        "max": 175.670667,
+        "avg": 173.8764002
+      }
+    },
+    "concurrentOperations": {
+      "success": 0,
+      "failure": 0
+    }
+  }
+}

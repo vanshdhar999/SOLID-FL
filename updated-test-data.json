@@ -1,0 +1,24 @@
+{
+    "name": "Updated Test Data",
+    "version": "2.0.0",
+    "description": "Updated sample JSON file for testing Solid file operations",
+    "data": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Updated Item 1",
+                "status": "active"
+            },
+            {
+                "id": 2,
+                "name": "Updated Item 2",
+                "status": "active"
+            },
+            {
+                "id": 3,
+                "name": "New Item 3",
+                "status": "active"
+            }
+        ]
+    }
+} 
